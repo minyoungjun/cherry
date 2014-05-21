@@ -189,7 +189,7 @@ $( function() {
 		delay: 8000,
 
 		backgrounds: [
-			{ src: 'http://giverunner.com/img/bg/bgbg.png', fade: 2000 }
+			{ src: 'http://giverunner.com/img/bg/bgbg.jpg', fade: 2000 }
 		]
 	} );
 	
